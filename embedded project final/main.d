@@ -1,0 +1,16 @@
+.\main.o: main.c
+.\main.o: UART.h
+.\main.o: tm4c123gh6pm.h
+.\main.o: bit_utilities.h
+.\main.o: LCD.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: systick.h
+.\main.o: GPS.h
+.\main.o: UART.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\main.o: Global_vars.h
+.\main.o: GPIO.h
+.\main.o: Global_vars.h
